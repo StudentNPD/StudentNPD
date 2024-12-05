@@ -45,6 +45,7 @@ Mi viaje en el mundo de la programación comenzó de manera autodidacta durante 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Remnote](https://img.shields.io/badge/Remnote-4169E1?style=for-the-badge&logoColor=white)
 
 ## 📊 GitHub Stats
 
