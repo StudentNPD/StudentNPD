@@ -1,4 +1,12 @@
+
+<div align="right">
+
+[![Portfolio](https://img.shields.io/badge/Mi_Portfolio-000000?style=for-the-badge&logo=Firefox-Browser&logoColor=FF7139)](https://studentnpd.github.io/Portafolio/)
+
+</div>
+
 # 👋 ¡Hola, soy Natalia Peña! 
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C9DF7&random=false&width=435&lines=Full+Stack+Developer;Apasionada+por+la+tecnolog%C3%ADa;Siempre+aprendiendo)](https://git.io/typing-svg)
 
