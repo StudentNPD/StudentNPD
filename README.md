@@ -1,8 +1,10 @@
 
+<!-- Opción 7: Con texto animado apuntando -->
 <div align="right">
-
-[![Portfolio](https://img.shields.io/badge/Mi_Portfolio-000000?style=for-the-badge&logo=Firefox-Browser&logoColor=FF7139)](https://studentnpd.github.io/Portafolio/)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1500&pause=1000&color=FF7139&repeat=false&width=200&height=25&lines=Visita+mi+portfolio+→;" alt="arrow" />
+  <a href="https://studentnpd.github.io/Portafolio/">
+    <img src="https://img.shields.io/badge/Mi_Portfolio-000000?style=for-the-badge&logo=Firefox-Browser&logoColor=FF7139" alt="Portfolio"/>
+  </a>
 </div>
 
 # 👋 ¡Hola, soy Natalia Peña! 
