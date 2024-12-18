@@ -1,11 +1,14 @@
 
 
-<!-- Opción 1: Versión minimalista -->
+
+
+<!-- Opción 6: Contraste alto -->
 <div align="right">
   <a href="https://studentnpd.github.io/Portafolio/">
-    <img src="https://img.shields.io/badge/Visita_mi_portfolio_→-000000?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Visita_mi_portfolio_→-ffffff?style=for-the-badge&logoColor=black&color=ffffff" alt="Portfolio"/>
   </a>
 </div>
+
 
 
 # 👋 ¡Hola, soy Natalia Peña! 
