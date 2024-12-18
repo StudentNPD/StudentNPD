@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1500&pause=1000&color=FF7139&repeat=false&width=200&height=25&lines=Visita+mi+portfolio+→" alt="arrow" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1&pause=10&color=FF7139&repeat=true&width=200&height=25&lines=Visita+mi+portfolio+→" alt="arrow" />
   <a href="https://studentnpd.github.io/Portafolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox-Browser&logoColor=FF7139" alt="Portfolio"/>
   </a>
