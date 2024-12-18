@@ -1,7 +1,7 @@
 <!-- Opción 5: Azul profesional -->
 <div align="right">
   <a href="https://studentnpd.github.io/Portafolio/">
-    <img src="https://img.shields.io/badge/Visita_mi_portfolio_→-0066cc?style=for-the-badge&logoColor=white&color=0066cc" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Visita_mi_portafolio_web_→-0066cc?style=for-the-badge&logoColor=white&color=0066cc" alt="Portfolio"/>
   </a>
 </div>
 
