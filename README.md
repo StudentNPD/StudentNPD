@@ -21,9 +21,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C9DF7&random=false&width=435&lines=Full+Stack+Developer;Apasionada+por+la+tecnolog%C3%ADa;Siempre+aprendiendo)](https://git.io/typing-svg)
 
-## 💫 Sobre mí
 
-Mi viaje en el mundo de la programación comenzó de manera autodidacta durante la enseñanza media, cuando descubrí la fascinante lógica detrás de los algoritmos. Esta temprana exposición a la resolución sistemática de problemas no solo despertó mi pasión por la tecnología, sino que también definió mi camino profesional en la informática.
 
 <details>
 <summary>🎯 Objetivos Profesionales</summary>
